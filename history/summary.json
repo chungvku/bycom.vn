@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/by.com.vn.ico",
     "slug": "by-com-vn",
     "status": "down",
-    "uptime": "12.77%",
+    "uptime": "12.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.14%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "1.85%",
     "time": 266,
-    "timeDay": 329,
-    "timeWeek": 340,
-    "timeMonth": 327,
-    "timeYear": 273,
+    "timeDay": 89,
+    "timeWeek": 306,
+    "timeMonth": 296,
+    "timeYear": 272,
     "dailyMinutesDown": {
-      "2025-04-24": 81,
+      "2025-04-25": 82,
+      "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -374,8 +375,7 @@
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
-      "2024-04-26": 1440,
-      "2024-04-25": 1440
+      "2024-04-26": 1440
     }
   }
 ]
